@@ -1,0 +1,28 @@
+html, body {
+	background-color: #c2dde5;
+}
+
+.container {
+	
+	display: flex;
+	gap:100px;
+	padding-top:20vh;
+	padding-left:20vw;
+}
+
+
+.marks li {
+	font-size: 2rem;
+	font-family: 'Lucida Sans', Verdana, sans-serif;	
+	color: #435566;
+	font-style: italic;
+}
+
+.marks li span {
+	padding-right:50px;
+}
+
+.marks ul {
+	list-style:none;
+}
+
